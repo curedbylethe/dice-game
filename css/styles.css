@@ -1,0 +1,25 @@
+body {
+  background-color: #9772FB;
+  font-family: 'Press Start 2P';
+  text-align: center;
+}
+
+h1 {
+  color: #764AF1;
+  font-size: 5rem;
+}
+
+.game-interface {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  width: 80%;
+}
+
+.player {
+  text-align: center;
+  display: inline-block;
+}
